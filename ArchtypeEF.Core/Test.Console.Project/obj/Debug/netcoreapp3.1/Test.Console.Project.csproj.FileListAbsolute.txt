@@ -1,0 +1,5 @@
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.csproj.AssemblyReference.cache
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.AssemblyInfoInputs.cache
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.AssemblyInfo.cs
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3h1ClxBzyoWBQgRagXjcaEuHfkGxjtUoKAUxnfLLU066TIh0heFaB1yYSws/27nM11sn7Ahu4+N0OYdX4tLwfQ==",
+  "success": true,
+  "projectFilePath": "C:\\ArchtypeEF\\ArchetypeEF\\ArchtypeEF.Core\\Test.Console.Project\\Test.Console.Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jap\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
