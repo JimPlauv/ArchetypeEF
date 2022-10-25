@@ -8,13 +8,18 @@ namespace ArchtypeEF.Core
 {
     public class ConfigurationBuilder : IConfigurationBuilder
     {
-        private Configuration _configuration = new Configuration();
-        public Configuration Build() => _configuration;
+        public Configuration Config = new Configuration();
+        public Configuration Build() => Config;
 
         public ConfigurationBuilder SetSource(SourceType sourceType)
         {
-            _configuration.SourceType = sourceType;
+            Config.SourceType = sourceType;
             return this;
+        }
+
+        public void Init()
+        {
+            ConfigurationManager.Config = Config;
         }
     }
 }

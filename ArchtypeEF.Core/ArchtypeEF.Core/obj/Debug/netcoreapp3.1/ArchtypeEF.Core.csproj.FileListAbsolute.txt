@@ -1,0 +1,10 @@
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\bin\Debug\netcoreapp3.1\ArchtypeEF.Core.deps.json
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\bin\Debug\netcoreapp3.1\ArchtypeEF.Core.dll
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\bin\Debug\netcoreapp3.1\ArchtypeEF.Core.pdb
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.csproj.AssemblyReference.cache
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.AssemblyInfoInputs.cache
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.AssemblyInfo.cs
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.csproj.CoreCompileInputs.cache
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.dll
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.pdb

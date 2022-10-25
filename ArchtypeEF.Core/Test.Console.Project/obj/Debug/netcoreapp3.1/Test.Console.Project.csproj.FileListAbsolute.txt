@@ -3,3 +3,15 @@ C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcore
 C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.AssemblyInfoInputs.cache
 C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.AssemblyInfo.cs
 C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.csproj.CoreCompileInputs.cache
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\Test.Console.Project.exe
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\Test.Console.Project.deps.json
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\Test.Console.Project.runtimeconfig.json
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\Test.Console.Project.runtimeconfig.dev.json
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\Test.Console.Project.dll
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\Test.Console.Project.pdb
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\ArchtypeEF.Core.dll
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\ArchtypeEF.Core.pdb
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.csproj.CopyComplete
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.dll
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.pdb
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.genruntimeconfig.cache

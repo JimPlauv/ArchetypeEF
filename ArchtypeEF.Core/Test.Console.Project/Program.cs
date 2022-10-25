@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ArchtypeEF.Core;
+using System;
 
 namespace Test.Console.Project
 {
@@ -6,7 +7,12 @@ namespace Test.Console.Project
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello World!");
+            var builder = new ConfigurationBuilder();
+            builder
+                .SetSource(ArchtypeEF.Core.CoreType.SourceType.MSSQL)
+                .Init();
+
+            System.Console.WriteLine(ConfigurationManager.Config.SourceType);
         }
     }
 }
