@@ -44,6 +44,7 @@ namespace ArchtypeEF.Core.Attributes
             this.IsIdentity = isIdentity;
             this.IdentityIncrement = identityIncrement;
             this.IdentitySeed = identitySeed;
+            this.ColoumnName = coloumnName;
         }
     }
 }
