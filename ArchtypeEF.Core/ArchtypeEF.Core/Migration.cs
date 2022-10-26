@@ -5,6 +5,7 @@ using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
 using ArchtypeEF.Core.Attributes;
+using System.Collections;
 
 namespace ArchtypeEF.Core
 {
@@ -27,8 +28,13 @@ namespace ArchtypeEF.Core
 
             foreach(var table in typesWithMyAttribute)
             {
-                string name = table.Type.Name;
+                await CreateTable(table.Type, table.Attributes);
             }
+        }
+
+        public async Task CreateTable(Type table, IEnumerable<ArchTable> attributes)
+        {
+
         }
     }
 }

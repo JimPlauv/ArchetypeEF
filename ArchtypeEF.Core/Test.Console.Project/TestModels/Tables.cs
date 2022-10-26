@@ -10,7 +10,7 @@ namespace Test.Console.Project.TestModels
     {
     }
 
-    [ArchTable(tableName = "CustomNameTable")]
+    [ArchTable(TableName = "CustomNameTable")]
     public class TableB
     {
     }
