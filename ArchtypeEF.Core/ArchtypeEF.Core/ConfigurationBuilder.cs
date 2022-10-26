@@ -7,10 +7,17 @@ namespace ArchtypeEF.Core
     {
         public Configuration Config = new Configuration();
         public Configuration Build() => Config;
+        private bool RunMigration { get; set; }
 
         public ConfigurationBuilder SetSource(SourceType sourceType)
         {
             Config.SourceType = sourceType;
+            return this;
+        }
+
+        public ConfigurationBuilder RunMigrationAtStartUp()
+        {
+            RunMigration = true;
             return this;
         }
 
@@ -29,9 +36,15 @@ namespace ArchtypeEF.Core
             return this;
         }
 
-        public void Init()
+        public async void Init()
         {
             ConfigurationManager.Config = Config;
+
+            if(RunMigration)
+            {
+                var migrationWorker = new Migration(Config);
+                await migrationWorker.RunMigration();
+            }
         }
     }
 }

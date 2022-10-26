@@ -9,5 +9,7 @@ namespace ArchtypeEF.Core
         ConfigurationBuilder SetSource(SourceType sourceType);
         ConfigurationBuilder SetConnectionString(string connectionStirng);
         ConfigurationBuilder SetConnectionParameters(string server, string database, string username, string password);
+        ConfigurationBuilder RunMigrationAtStartUp();
+        void Init();
     }
 }

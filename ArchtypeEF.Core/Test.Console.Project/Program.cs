@@ -10,6 +10,7 @@ namespace Test.Console.Project
             var builder = new ConfigurationBuilder();
             builder
                 .SetSource(ArchtypeEF.Core.CoreType.SourceType.MSSQL)
+                .RunMigrationAtStartUp()
                 .Init();
 
             System.Console.WriteLine(ConfigurationManager.Config.SourceType);
