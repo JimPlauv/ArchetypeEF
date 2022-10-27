@@ -30,7 +30,7 @@ namespace ArchtypeEF.Core
             }
         }
 
-        public async Task CreateTable(Type table, IEnumerable<ArchTable> attributes)
+        internal async Task CreateTable(Type table, IEnumerable<ArchTable> attributes)
         {
             string connStr = _configuration.GetConnectionString();
         }
