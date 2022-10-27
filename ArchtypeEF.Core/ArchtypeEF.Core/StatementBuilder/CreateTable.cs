@@ -14,7 +14,8 @@ namespace ArchtypeEF.Core.StatementBuilder
             sb.Append("CREATE TABLE " + StatementHelper.TableName(table) + " (");
             foreach(var property in table.GetProperties())
             {
-
+                sb.Append(StatementHelper.CouloumnName(property) + " " 
+                    + StatementHelper.CouloumnDatatype(property) + ", ");
             }
             sb.Append(");");
 

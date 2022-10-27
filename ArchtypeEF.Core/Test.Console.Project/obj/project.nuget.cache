@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LtXPLWuafeKmGi0L+ENdqpKZbeiVWjLMPwE3pw1BB4Y7g09ct+l5on8L60JydrSi2sL5wZs21qmm2WW+ClG1sg==",
+  "dgSpecHash": "3h1ClxBzyoWBQgRagXjcaEuHfkGxjtUoKAUxnfLLU066TIh0heFaB1yYSws/27nM11sn7Ahu4+N0OYdX4tLwfQ==",
   "success": true,
-  "projectFilePath": "D:\\Games Development\\ArchetypeEF\\ArchtypeEF.Core\\Test.Console.Project\\Test.Console.Project.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\ArchtypeEF\\ArchetypeEF\\ArchtypeEF.Core\\Test.Console.Project\\Test.Console.Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jap\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }
