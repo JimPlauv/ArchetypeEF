@@ -8,3 +8,13 @@ C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.
 C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.csproj.CoreCompileInputs.cache
 C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.dll
 C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.pdb
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\bin\Debug\netcoreapp3.1\ArchtypeEF.Core.deps.json
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\bin\Debug\netcoreapp3.1\ArchtypeEF.Core.dll
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\bin\Debug\netcoreapp3.1\ArchtypeEF.Core.pdb
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.csproj.AssemblyReference.cache
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.AssemblyInfoInputs.cache
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.AssemblyInfo.cs
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.csproj.CoreCompileInputs.cache
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.dll
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Core\obj\Debug\netcoreapp3.1\ArchtypeEF.Core.pdb

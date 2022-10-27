@@ -32,7 +32,10 @@ namespace ArchtypeEF.Core
 
         internal async Task CreateTable(Type table, IEnumerable<ArchTable> attributes)
         {
+            var createTable = new StatementBuilder.CreateTable();
+
             string connStr = _configuration.GetConnectionString();
+            string sql = createTable.MSSQL(table, attributes);
         }
     }
 }

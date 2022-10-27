@@ -15,3 +15,20 @@ C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcore
 C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.dll
 C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.pdb
 C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.genruntimeconfig.cache
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\Test.Console.Project.exe
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\Test.Console.Project.deps.json
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\Test.Console.Project.runtimeconfig.json
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\Test.Console.Project.runtimeconfig.dev.json
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\Test.Console.Project.dll
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\Test.Console.Project.pdb
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\ArchtypeEF.Core.dll
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\bin\Debug\netcoreapp3.1\ArchtypeEF.Core.pdb
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.csproj.AssemblyReference.cache
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.AssemblyInfoInputs.cache
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.AssemblyInfo.cs
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.csproj.CoreCompileInputs.cache
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.csproj.CopyComplete
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.dll
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.pdb
+D:\Games Development\ArchetypeEF\ArchtypeEF.Core\Test.Console.Project\obj\Debug\netcoreapp3.1\Test.Console.Project.genruntimeconfig.cache

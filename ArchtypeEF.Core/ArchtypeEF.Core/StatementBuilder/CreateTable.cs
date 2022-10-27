@@ -9,13 +9,13 @@ namespace ArchtypeEF.Core.StatementBuilder
     {
         internal string MSSQL(Type table, IEnumerable<ArchTable> attributes)
         {
-            var tableAttribute = (ArchTable)Attribute.GetCustomAttribute(table, typeof(ArchTable));
-
-            //string tableName = table.Attributes table.Name;
-
             StringBuilder sb = new StringBuilder();
 
-            sb.Append("CREATE TABLE (");
+            sb.Append("CREATE TABLE " + StatementHelper.TableName(table) + " (");
+            foreach(var property in table.GetProperties())
+            {
+
+            }
             sb.Append(");");
 
             return "";
