@@ -1,0 +1,13 @@
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Commands\bin\Debug\netcoreapp3.1\ArchtypeEF.Commands.deps.json
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Commands\bin\Debug\netcoreapp3.1\ArchtypeEF.Commands.dll
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Commands\bin\Debug\netcoreapp3.1\ArchtypeEF.Commands.pdb
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Commands\bin\Debug\netcoreapp3.1\ArchtypeEF.Core.dll
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Commands\bin\Debug\netcoreapp3.1\ArchtypeEF.Core.pdb
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Commands\obj\Debug\netcoreapp3.1\ArchtypeEF.Commands.csproj.AssemblyReference.cache
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Commands\obj\Debug\netcoreapp3.1\ArchtypeEF.Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Commands\obj\Debug\netcoreapp3.1\ArchtypeEF.Commands.AssemblyInfoInputs.cache
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Commands\obj\Debug\netcoreapp3.1\ArchtypeEF.Commands.AssemblyInfo.cs
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Commands\obj\Debug\netcoreapp3.1\ArchtypeEF.Commands.csproj.CoreCompileInputs.cache
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Commands\obj\Debug\netcoreapp3.1\ArchtypeEF.Commands.csproj.CopyComplete
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Commands\obj\Debug\netcoreapp3.1\ArchtypeEF.Commands.dll
+C:\ArchtypeEF\ArchetypeEF\ArchtypeEF.Core\ArchtypeEF.Commands\obj\Debug\netcoreapp3.1\ArchtypeEF.Commands.pdb

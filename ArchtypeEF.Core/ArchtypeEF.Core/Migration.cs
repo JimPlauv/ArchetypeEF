@@ -1,24 +1,22 @@
 ﻿using ArchtypeEF.Core.Models;
 using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Linq;
 using System.Threading.Tasks;
 using ArchtypeEF.Core.Attributes;
-using System.Collections;
 
 namespace ArchtypeEF.Core
 {
-    public class Migration
+    internal class Migration
     {
         public Configuration _configuration;
 
-        public Migration(Configuration configuration)
+        internal Migration(Configuration configuration)
         {
             _configuration = configuration;
         }
 
-        public async Task RunMigration()
+        internal async Task RunMigration()
         {
             var typesWithMyAttribute = from a in AppDomain.CurrentDomain.GetAssemblies()
             from t in a.GetTypes()
@@ -34,7 +32,7 @@ namespace ArchtypeEF.Core
 
         public async Task CreateTable(Type table, IEnumerable<ArchTable> attributes)
         {
-
+            string connStr = _configuration.GetConnectionString();
         }
     }
 }

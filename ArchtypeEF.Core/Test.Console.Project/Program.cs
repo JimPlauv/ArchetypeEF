@@ -13,7 +13,7 @@ namespace Test.Console.Project
                 .RunMigrationAtStartUp()
                 .Init();
 
-            System.Console.WriteLine(ConfigurationManager.Config.SourceType);
+            System.Console.WriteLine(ConfigurationManager.Config.Source);
         }
     }
 }

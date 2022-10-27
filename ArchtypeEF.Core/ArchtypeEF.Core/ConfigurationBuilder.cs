@@ -11,7 +11,7 @@ namespace ArchtypeEF.Core
 
         public ConfigurationBuilder SetSource(SourceType sourceType)
         {
-            Config.SourceType = sourceType;
+            Config.Source = sourceType;
             return this;
         }
 
